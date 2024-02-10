@@ -1,0 +1,2 @@
+Simulation Mode;Polygon bias;Polygons;Range [km2];Collision Range [km2];NoFlyZones;Angle height;Collision Evasion;Flight level height;Time interval [minutes];Density target;Flight count;Far collisions;Medium collisions;Close collisions;Spot on collisions
+Polygons;0,5;(2000.00, 400.00, 2000.00) (-1000.00, 800.00, -2000.00) (-1500.00, 1200.00, 2000.00) (1500.00, 1600.00, -1850.00) (-1500.00, 2000.00, 900.00) ;30;30;True;True;False;10;7500;100;375126;2987634;1181345;259892;9993
